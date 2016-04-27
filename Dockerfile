@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/python2:latest
+FROM quay.io/vektorcloud/python:2
 
 RUN addgroup -g 400 ansible && \
     adduser -D -u 400 -G ansible ansible
