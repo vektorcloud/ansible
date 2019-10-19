@@ -1,6 +1,6 @@
 # ansible
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/ansible)
 
 Alpine-based Ansible image
 
